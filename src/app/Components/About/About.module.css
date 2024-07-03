@@ -1,0 +1,20 @@
+.about {
+  padding: 2rem;
+  background-color: #f5f1f1;
+  margin-top: 0.5rem;
+  border-radius: 1rem ;
+  margin: 2rem 1rem;
+  box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
+}
+.title {
+  font-size: large;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.description {
+  margin-top: 1rem;
+  font-size: medium;
+  letter-spacing: 1px;
+  line-height: 1.5;
+}
